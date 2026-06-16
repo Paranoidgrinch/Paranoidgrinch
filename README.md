@@ -8,7 +8,7 @@
 
 # Hi, I'm [@Paranoidgrinch](https://github.com/Paranoidgrinch).
 
-### I build roguelike systems, strange worlds — and occasionally ion beamlines.
+### I build roguelike systems, strange worlds — and occasionally collide negative-ion beams with high-power lasers.
 
 Game designer and programmer behind [**Moonvine Forge Studios**](https://moonvineforge.com).
 
@@ -18,9 +18,6 @@ Currently building a modular deckbuilding engine designed to support mechanics t
 
 <a href="https://github.com/Paranoidgrinch">
   <img src="https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub">
-</a>
-<a href="https://moonvineforge.com">
-  <img src="https://img.shields.io/badge/Moonvine_Forge-Visit_the_studio-59506D?style=for-the-badge" alt="Moonvine Forge Studios">
 </a>
 <a href="https://moonvineforge.com/card-forge.html">
   <img src="https://img.shields.io/badge/Build_your_own_card-6B7D58?style=for-the-badge" alt="Community Card Forge">
@@ -170,24 +167,33 @@ It is to create systems with enough personality to make players ask:
 
 # 🔬 The other half: science and engineering
 
-I also work in **accelerator mass spectrometry**, where the systems are physical and the particles are less cooperative.
+I also work in **accelerator mass spectrometry**, where I transport and cool negative-ion beams, overlap them with high-power laser light and automate the hardware around the experiment.
 
-## Accelerator mass spectrometry
+## Accelerator mass spectrometry and laser photodetachment
 
 * rare-isotope measurements
-* laser photodetachment
-* isobar suppression
+* high-power laser photodetachment
+* ion–laser beam overlap
+* laser-based isobar suppression
 * molecular-anion beams
-* ion-beam diagnostics
+* ion-beam cooling and transport
+* beam diagnostics
+* automated experimental control
 
-### Related project
+### Related projects
 
 <a href="https://github.com/Paranoidgrinch/FLAVIA-alpha-1.1-Fully-integrated-Laser-Anion-Variables-for-AMS-">
   <img src="https://img.shields.io/badge/View_repository-FLAVIA-394B59?style=flat-square&logo=github&logoColor=white" alt="FLAVIA repository">
 </a>
+<a href="https://github.com/Paranoidgrinch/VerdiV18">
+  <img src="https://img.shields.io/badge/View_repository-Verdi_V18-008A45?style=flat-square&logo=python&logoColor=white" alt="Verdi V18 laser controller repository">
+</a>
 
 [**FLAVIA — Fully Integrated Laser Anion Variables for AMS**](https://github.com/Paranoidgrinch/FLAVIA-alpha-1.1-Fully-integrated-Laser-Anion-Variables-for-AMS-)
-Tools and workflows for laser–anion experiments in accelerator mass spectrometry.
+Integrated controls and tools for laser–anion experiments in accelerator mass spectrometry.
+
+[**Verdi V18 Laser Controller**](https://github.com/Paranoidgrinch/VerdiV18)
+A Python and PyQt5 interface for controlling and monitoring a high-power Verdi laser, including output power, shutter state, operating status, temperatures and interlocks.
 
 ---
 
@@ -208,7 +214,7 @@ Tools and workflows for laser–anion experiments in accelerator mass spectromet
 </a>
 
 [**RFQ resonance and LC-circuit control**](https://github.com/Paranoidgrinch/LC-Circuit-flashing)
-Remote monitoring and adjustment of resonant RF systems.
+Remote monitoring and adjustment of the resonant RF-matching system used for the ion cooler.
 
 ---
 
@@ -218,6 +224,7 @@ Remote monitoring and adjustment of resonant RF systems.
 * TwinCAT
 * IEC 61131-3 Structured Text
 * LabVIEW
+* Python and PyQt5 control interfaces
 * MQTT
 * Raspberry Pi control
 * instrument communication
@@ -278,6 +285,7 @@ Whether I am designing a combat engine or an ion-optical system, I care about th
 ## Automation and instrumentation
 
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-Instrument_Control-F2C811?style=flat-square)
+![PyQt5](https://img.shields.io/badge/PyQt5-Control_Interfaces-41CD52?style=flat-square\&logo=qt\&logoColor=white)
 ![Beckhoff](https://img.shields.io/badge/Beckhoff-PLC_Automation-D71920?style=flat-square)
 ![TwinCAT](https://img.shields.io/badge/TwinCAT_3-Control_Systems-C8102E?style=flat-square)
 ![Structured Text](https://img.shields.io/badge/IEC_61131--3-Structured_Text-44546A?style=flat-square)
@@ -292,7 +300,7 @@ Whether I am designing a combat engine or an ion-optical system, I care about th
 
 New mechanics. New architecture. New worlds.
 
-Occasionally, new ways to move ions through electric fields.
+Occasionally, new ways to make ions and photons collide.
 
 <br>
 
