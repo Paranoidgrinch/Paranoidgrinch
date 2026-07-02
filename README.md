@@ -8,7 +8,7 @@
 
 # Hi, I'm [@Paranoidgrinch](https://github.com/Paranoidgrinch).
 
-### I build roguelike systems, strange worlds — and occasionally collide negative-ion beams with high-power lasers.
+### I build roguelike systems, strange worlds - and occasionally collide negative-ion beams with high-power lasers.
 
 Game designer and programmer behind [**Moonvine Forge Studios**](https://moonvineforge.com).
 
