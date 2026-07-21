@@ -1,9 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <a href="./assets/bab_readme_banner.mp4">
+  <a href="./bab_readme_banner.mp4">
     <img
-      src="./assets/bab_readme_banner.gif"
+      src="./bab_readme_banner.gif"
       width="100%"
       alt="Animated Bureaucrats and Broomsticks card banner"
     >
