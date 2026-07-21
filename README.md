@@ -1,3 +1,36 @@
+<p align="center">
+  <img
+    src="./bab_readme_banner.gif"
+    width="100%"
+    alt="Animated Bureaucrats and Broomsticks card banner"
+  >
+</p>
+
+<p align="center">
+  <a href="https://committers.top/germany">
+    <img
+      src="https://user-badge.committers.top/germany/Paranoidgrinch.svg"
+      height="28"
+      alt="committers.top Germany ranking"
+    >
+  </a>
+  &nbsp;
+  <a href="https://moonvineforge.com/">
+    <img
+      src="https://img.shields.io/badge/RogueDeck%20Studio-Visit%20the%20Forge-6f42c1?style=for-the-badge"
+      alt="Visit RogueDeck Studio"
+    >
+  </a>
+  &nbsp;
+  <a href="https://github.com/Paranoidgrinch/RogueDeck-Core">
+    <img
+      src="https://img.shields.io/github/stars/Paranoidgrinch/RogueDeck-Core?style=for-the-badge&logo=github&label=Star%20RogueDeck%20Core&color=6f42c1"
+      alt="Star RogueDeck Core"
+    >
+  </a>
+</p>
+
+
 <div align="center">
 
 <p align="center">
