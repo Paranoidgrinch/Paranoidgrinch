@@ -1,11 +1,14 @@
 <div align="center">
 
-<!--
-WIDE PROFILE GIF GOES HERE AFTER THE REST OF THE README IS FINAL.
-Recommended source size: 1200 × 170 px (roughly 7:1), optimized to stay below GitHub's file-size limit.
-
-<img src="PROFILE-BANNER.gif" width="100%" alt="Animated banner connecting roguelike systems and accelerator science">
--->
+<p align="center">
+  <a href="./assets/bab_readme_banner.mp4">
+    <img
+      src="./assets/bab_readme_banner.gif"
+      width="100%"
+      alt="Animated Bureaucrats and Broomsticks card banner"
+    >
+  </a>
+</p>
 
 # Hi, I'm [@Paranoidgrinch](https://github.com/Paranoidgrinch)
 
