@@ -25,6 +25,33 @@
     Gaussian optics, and laboratory automation.
   </p>
 
+  <div align="center">
+
+  <a href="./bab_readme_banner.mp4">
+    <img
+      src="./bab_readme_banner.gif"
+      width="100%"
+      alt="Animated Bureaucrats and Broomsticks card banner"
+    >
+  </a>
+
+  <br><br>
+
+  <h1>
+    Hi, I'm
+    <a href="https://github.com/Paranoidgrinch">@Paranoidgrinch</a>
+  </h1>
+
+  <h3>
+    Systems programmer building deterministic roguelike infrastructure
+    and scientific software.
+  </h3>
+
+  <p>
+    I develop software for game systems, accelerator mass spectrometry,<br>
+    Gaussian optics, and laboratory automation.
+  </p>
+
   <p>
     <a href="https://moonvineforge.com">
       <img
@@ -39,27 +66,33 @@
     </a>
   </p>
 
+  <br>
+
   <p>
     <a href="https://committers.top/germany">
       <img
         src="https://user-badge.committers.top/germany/Paranoidgrinch.svg"
-        height="28"
+        height="32"
         alt="Paranoidgrinch on committers.top Germany"
       >
     </a>
-    &nbsp;
+  </p>
+
+  <p>
     <a href="https://studio.moonvineforge.com">
       <img
         src="https://img.shields.io/badge/OPEN-ROGUEDECK%20STUDIO-6B7D58?style=for-the-badge"
-        height="28"
+        height="32"
         alt="Open RogueDeck Studio"
       >
     </a>
-    &nbsp;
+  </p>
+
+  <p>
     <a href="https://github.com/Paranoidgrinch/RogueDeck-Core">
       <img
         src="https://img.shields.io/github/stars/Paranoidgrinch/RogueDeck-Core?style=for-the-badge&logo=github&logoColor=white&label=STAR%20ROGUEDECK%20CORE&color=512BD4"
-        height="28"
+        height="32"
         alt="Star RogueDeck Core"
       >
     </a>
