@@ -46,7 +46,7 @@
   <a href="https://github.com/Paranoidgrinch/RogueDeck-Core">
       <img
         src="https://img.shields.io/github/stars/Paranoidgrinch/RogueDeck-Core?style=for-the-badge&logo=github&logoColor=white&label=STAR%20ROGUEDECK%20CORE&color=512BD4"
-        height="32"
+        height="30"
         alt="Star RogueDeck Core"
       >
     </a>
@@ -65,7 +65,7 @@
     <a href="https://studio.moonvineforge.com">
       <img
         src="https://img.shields.io/badge/OPEN-ROGUEDECK%20STUDIO-6B7D58?style=for-the-badge"
-        height="32"
+        height="30"
         alt="Open RogueDeck Studio"
       >
     </a>
