@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  
+
   <a href="./bab_readme_banner.mp4">
     <img
       src="./bab_readme_banner.gif"
@@ -21,10 +21,9 @@
     Systems programmer building deterministic roguelike infrastructure
     and scientific software.
   </h3>
-
   <p>
     I develop software for game systems, accelerator mass spectrometry,<br>
-    Gaussian optics, and laboratory automation.
+    molecular electronic structure, Gaussian optics, and laboratory automation.
   </p>
 
   <p>
@@ -40,7 +39,6 @@
       <strong>Moonvine Forge Studios</strong>
     </a>
   </p>
-
   <br>
 <p>
   <a href="https://github.com/Paranoidgrinch/RogueDeck-Core">
@@ -60,7 +58,6 @@
       >
     </a>
   </p>
-
   <p>
     <a href="https://studio.moonvineforge.com">
       <img
@@ -71,14 +68,12 @@
     </a>
   </p>
 
-  
+
 
 </div>
 
 ---
-
 ## RogueDeck
-
 ### [RogueDeck Core](https://github.com/Paranoidgrinch/RogueDeck-Core)
 
 **A complete, deterministic C#/.NET engine foundation for roguelike deckbuilders.**
@@ -87,17 +82,14 @@ RogueDeck separates rules, content and presentation. Cards, statuses, resources,
 run events and maps are composed from reusable systems instead of accumulating hardcoded exceptions.
 
 > Build the mechanic. Keep the core clean.
-
 - deterministic combat, seeded runs, snapshots and replay
 - modular effect programs, triggers, modifiers and interceptors
 - combat and run systems for parties, relics, events, shops, branching maps and meta progression
 - versioned JSON content, Godot integration and extensive automated testing
-
 [![CI](https://github.com/Paranoidgrinch/RogueDeck-Core/actions/workflows/ci.yml/badge.svg)](https://github.com/Paranoidgrinch/RogueDeck-Core/actions/workflows/ci.yml)
 ![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Status](https://img.shields.io/badge/core-v1_complete-3FB950?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-394B59?style=flat-square)
-
 ### [RogueDeck Studio](https://studio.moonvineforge.com)
 
 **Forge a whole roguelike in the browser — no account, setup or code required.**
@@ -107,7 +99,6 @@ maps; playtest the result immediately; then export the complete game as one vers
 for a Godot/.NET frontend or another RogueDeck host.
 
 **[Open RogueDeck Studio →](https://studio.moonvineforge.com)**
-
 <sub>
 RogueDeck grew out of
 <a href="https://github.com/Paranoidgrinch/bureaucrats-and-broomsticks-v2">Bureaucrats &amp; Broomsticks</a>,
@@ -115,12 +106,10 @@ the original playable Python systems prototype that exposed the limits of hardco
 </sub>
 
 ---
-
 ## Science and engineering
 
 I work in **accelerator mass spectrometry (AMS)**, where I transport and cool negative-ion beams,
 overlap them with high-power laser light and automate the hardware around the experiment.
-
 ### Accelerator mass spectrometry and laser photodetachment
 
 - rare-isotope measurements and molecular-anion beams
@@ -128,26 +117,22 @@ overlap them with high-power laser light and automate the hardware around the ex
 - ion–laser beam overlap, beam transport and diagnostics
 - RFQ ion cooling, injection and extraction
 - automated experimental control and reproducible measurement workflows
-
 ### Ion optics, RFQ systems and Gaussian laser propagation
 
 - SIMION particle-trajectory simulations and automated parameter scans
 - electrostatic lenses, deflectors and electrode geometries
 - RF matching and resonant LC systems
 - Gaussian-beam transport through long beamlines and constrained apertures
-
 ### [Gaussian Beamline Designer](https://github.com/Paranoidgrinch/Gaussian-Beamline-Designer)
 
 A released PyQt5 desktop application for designing and evaluating paraxial Gaussian laser beamlines.
 It propagates elliptical beams independently in both axes through free space, thin or thick lenses,
 apertures, mirrors and restricted beam-tube regions. Projects and simulation results can be exported
 as JSON, CSV and PNG.
-
 [![Release](https://img.shields.io/badge/release-v1.0.0-3FB950?style=flat-square)](https://github.com/Paranoidgrinch/Gaussian-Beamline-Designer/releases/latest)
 [![Tests](https://github.com/Paranoidgrinch/Gaussian-Beamline-Designer/actions/workflows/tests.yml/badge.svg)](https://github.com/Paranoidgrinch/Gaussian-Beamline-Designer/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-394B59?style=flat-square)
-
 ### Experimental automation
 
 - Beckhoff PLC systems, TwinCAT and IEC 61131-3 Structured Text
@@ -155,7 +140,6 @@ as JSON, CSV and PNG.
 - LabVIEW and instrument communication
 - MQTT and Raspberry Pi monitoring
 - serial and TCP/IP hardware control
-
 ### Molecular-anion calculations
 
 I use PySCF and automated Python workflows to investigate:
@@ -165,21 +149,31 @@ I use PySCF and automated Python workflows to investigate:
 - rotational constants and vibrational properties
 - photodetachment channels and experimentally promising molecular anions
 
-### Related research software
+### [DiatomicEA](https://github.com/Paranoidgrinch/diatomic-ea)
 
+**Fast and reproducible electron-affinity calculations for diatomic molecules.**
+
+DiatomicEA is a released PyQt5 desktop and command-line application that automates a reproducible
+PySCF workflow from initial geometry scans through high-accuracy refinement to a final electron-affinity
+prediction with 80%, 90% and 95% prediction intervals. It keeps raw calculation data and compute
+provenance, supports persistent/resumable runs, uses a managed WSL2 backend on Windows and runs
+natively on Linux.
+
+[![Release](https://img.shields.io/github/v/release/Paranoidgrinch/diatomic-ea?sort=semver&label=release&style=flat-square)](https://github.com/Paranoidgrinch/diatomic-ea/releases/latest)
+![PySCF](https://img.shields.io/badge/PySCF-2.13.0-4A5568?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/license-GPL--3.0--only-394B59?style=flat-square)
+
+### Related research software
 | Project | Focus |
 | --- | --- |
 | [**FLAVIA**](https://github.com/Paranoidgrinch/FLAVIA-alpha-1.1-Fully-integrated-Laser-Anion-Variables-for-AMS-) | Integrated controls and tools for laser–anion experiments in AMS |
 | [**Verdi V18 Controller**](https://github.com/Paranoidgrinch/VerdiV18) | Python/PyQt5 control and monitoring for a high-power Verdi laser |
 | [**RFQ resonance control**](https://github.com/Paranoidgrinch/LC-Circuit-flashing) | Remote monitoring and adjustment of the ion cooler's resonant LC-matching system |
 | [**Beckhoff CX7080 + MQTT**](https://github.com/Paranoidgrinch/Beckhoff-CX7080-MQTT) | PLC communication and laboratory-system integration |
-
 ---
-
 ## Toolset
-
 ### Game and software development
-
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-WebAssembly-512BD4?style=flat-square&logo=blazor&logoColor=white)
@@ -191,18 +185,14 @@ I use PySCF and automated Python workflows to investigate:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
 ### Scientific computing and simulation
-
 ![PySCF](https://img.shields.io/badge/PySCF-Electronic_Structure-4A5568?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![SIMION](https://img.shields.io/badge/SIMION_8.1-Ion_Optics-5C677D?style=flat-square)
 ![Lua](https://img.shields.io/badge/Lua-SIMION_Automation-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-CAD-EF7C00?style=flat-square&logo=autodesk&logoColor=white)
-
 ### Automation and instrumentation
-
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-Instrument_Control-F2C811?style=flat-square)
 ![PyQt5](https://img.shields.io/badge/PyQt5-Control_Interfaces-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Beckhoff](https://img.shields.io/badge/Beckhoff-PLC_Automation-D71920?style=flat-square)
@@ -212,7 +202,6 @@ I use PySCF and automated Python workflows to investigate:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![RS-232](https://img.shields.io/badge/RS--232-Serial_Control-44546A?style=flat-square)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Instrument_Control-44546A?style=flat-square)
-
 ---
 
 <div align="center">
