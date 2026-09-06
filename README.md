@@ -18,12 +18,12 @@
   </h1>
 
   <h3>
-    Systems programmer building deterministic roguelike infrastructure
+    Systems programmer building videogame infrastructure
     and scientific software.
   </h3>
   <p>
     I develop software for game systems, accelerator mass spectrometry,<br>
-    molecular electronic structure, Gaussian optics, and laboratory automation.
+    molecular electronic structure calculations, Gaussian optics, and large system laboratory automation.
   </p>
 
   <p>
@@ -146,7 +146,6 @@ I use PySCF and automated Python workflows to investigate:
 
 - electron affinities and dissociation energies
 - molecular geometries and electronic structure
-- rotational constants and vibrational properties
 - photodetachment channels and experimentally promising molecular anions
 
 ### [DiatomicEA](https://github.com/Paranoidgrinch/diatomic-ea)
@@ -207,7 +206,7 @@ natively on Linux.
 <div align="center">
 
 I like systems that remain understandable when the interactions become complicated — whether they
-move cards through a combat queue or ions through a beamline.
+move cards through a combat queue or ions through a beamline. Feel free to contact me anytime, as I am active almost daily :)
 
 <br>
 
