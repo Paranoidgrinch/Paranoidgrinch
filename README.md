@@ -23,7 +23,7 @@
   </h3>
   <p>
     I develop software for game systems, accelerator mass spectrometry,<br>
-    molecular electronic structure calculations, Gaussian optics, and large system laboratory automation.
+    molecular electronic structure calculations, high power laser optics, and large system laboratory automation.
   </p>
 
   <p>
@@ -81,7 +81,6 @@
 RogueDeck separates rules, content and presentation. Cards, statuses, resources, triggers, targets,
 run events and maps are composed from reusable systems instead of accumulating hardcoded exceptions.
 
-> Build the mechanic. Keep the core clean.
 - deterministic combat, seeded runs, snapshots and replay
 - modular effect programs, triggers, modifiers and interceptors
 - combat and run systems for parties, relics, events, shops, branching maps and meta progression
@@ -96,7 +95,7 @@ run events and maps are composed from reusable systems instead of accumulating h
 
 Author heroes, cards, enemies, encounters, statuses, relics, events, shops, meta rules and branching
 maps; playtest the result immediately; then export the complete game as one versioned JSON blueprint
-for a Godot/.NET frontend or another RogueDeck host.
+for a Godot/.NET frontend or another RogueDeck host. This allows everyone to create their own roguelike deckbuilder without having to write a single line of code.
 
 **[Open RogueDeck Studio →](https://studio.moonvineforge.com)**
 <sub>
@@ -109,7 +108,7 @@ the original playable Python systems prototype that exposed the limits of hardco
 ## Science and engineering
 
 I work in **accelerator mass spectrometry (AMS)**, where I transport and cool negative-ion beams,
-overlap them with high-power laser light and automate the hardware around the experiment.
+overlap them with high-power laser beams and automate the hardware around the experiment.
 ### Accelerator mass spectrometry and laser photodetachment
 
 - rare-isotope measurements and molecular-anion beams
