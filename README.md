@@ -18,7 +18,7 @@
   </h1>
 
   <h3>
-    Systems programmer building videogame infrastructure
+    I build videogame infrastructure
     and scientific software.
   </h3>
   <p>
