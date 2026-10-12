@@ -3,7 +3,7 @@
   <tr>
     <td align="center" valign="middle" width="27%">
       <a href="./bab_readme_banner.mp4" title="Watch the complete Bureaucrats & Broomsticks animation">
-        <img src="./assets/bnb_cards_left.gif" width="100%" alt="Animated Bureaucrats & Broomsticks card backs, left pair">
+        <img src="./bnb_cards_left.gif" width="100%" alt="Animated Bureaucrats & Broomsticks card backs, left pair">
       </a>
     </td>
     <td align="center" valign="middle" width="46%">
@@ -19,7 +19,7 @@
     </td>
     <td align="center" valign="middle" width="27%">
       <a href="./bab_readme_banner.mp4" title="Watch the complete Bureaucrats & Broomsticks animation">
-        <img src="./assets/bnb_cards_right.gif" width="100%" alt="Animated Bureaucrats & Broomsticks card backs, right pair">
+        <img src="./bnb_cards_right.gif" width="100%" alt="Animated Bureaucrats & Broomsticks card backs, right pair">
       </a>
     </td>
   </tr>
