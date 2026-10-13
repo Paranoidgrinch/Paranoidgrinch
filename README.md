@@ -1,26 +1,19 @@
-<!-- Profile hero: animated card pairs cropped from the original five-card MP4. -->
+<!-- One animated card on each side, cropped from bab_readme_banner.mp4. -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="middle" width="27%">
-      <a href="./bab_readme_banner.mp4" title="Watch the complete Bureaucrats & Broomsticks animation">
-        <img src="./bnb_cards_left.gif" width="100%" alt="Animated Bureaucrats & Broomsticks card backs, left pair">
-      </a>
+    <td align="center" valign="middle" width="22%">
+      <img src="./bnb_card_left.gif" width="100%" alt="Animated Bureaucrats &amp; Broomsticks card back — left">
     </td>
-    <td align="center" valign="middle" width="46%">
-      <h2>Hi, I'm<br><a href="https://github.com/Paranoidgrinch">@Paranoidgrinch</a></h2>
-      <p><strong>Game systems & scientific software</strong></p>
-      <p>I build deterministic game engines, simulate ion beams and molecular electronic structure, and write software for laboratory hardware.</p>
-      <p>
-        <a href="https://moonvineforge.com"><strong>Moonvine Forge Studios</strong></a>
-      </p>
-      <a href="https://github.com/Paranoidgrinch/RogueDeck-Core"><img alt="Star RogueDeck Core" src="https://img.shields.io/github/stars/Paranoidgrinch/RogueDeck-Core?style=for-the-badge&logo=github&logoColor=white&label=ROGUEDECK%20CORE&color=512BD4"></a>
-      <br>
-      <a href="https://studio.moonvineforge.com"><img alt="Open RogueDeck Studio" src="https://img.shields.io/badge/OPEN-ROGUEDECK%20STUDIO-6B7D58?style=for-the-badge"></a>
+    <td align="center" valign="middle" width="56%">
+      <h2>Hi, I'm <a href="https://github.com/Paranoidgrinch">@Paranoidgrinch</a></h2>
+      <p><strong>Game systems &amp; scientific software</strong></p>
+      <p>I build reproducible game engines, scientific simulations and software for accelerator experiments.</p>
+      <p><a href="https://moonvineforge.com"><strong>Moonvine Forge Studios</strong></a></p>
+      <p><a href="https://github.com/Paranoidgrinch/RogueDeck-Core"><img alt="Star RogueDeck Core" src="https://img.shields.io/github/stars/Paranoidgrinch/RogueDeck-Core?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=ROGUEDECK%20CORE&amp;color=512BD4"></a></p>
+      <p><a href="https://studio.moonvineforge.com"><img alt="Open RogueDeck Studio" src="https://img.shields.io/badge/OPEN-ROGUEDECK%20STUDIO-6B7D58?style=for-the-badge"></a></p>
     </td>
-    <td align="center" valign="middle" width="27%">
-      <a href="./bab_readme_banner.mp4" title="Watch the complete Bureaucrats & Broomsticks animation">
-        <img src="./bnb_cards_right.gif" width="100%" alt="Animated Bureaucrats & Broomsticks card backs, right pair">
-      </a>
+    <td align="center" valign="middle" width="22%">
+      <img src="./bnb_card_right.gif" width="100%" alt="Animated Bureaucrats &amp; Broomsticks card back — right">
     </td>
   </tr>
 </table>
