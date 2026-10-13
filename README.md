@@ -7,7 +7,7 @@
     <td align="center" valign="middle" width="56%">
       <h2>Hi, I'm <a href="https://github.com/Paranoidgrinch">@Paranoidgrinch</a></h2>
       <p><strong>Game systems &amp; scientific software</strong></p>
-      <p>I build reproducible game engines, scientific simulations and software for accelerator experiments.</p>
+      <p>I build game engines, scientific simulations and software for accelerator experiments.</p>
       <p><a href="https://moonvineforge.com"><strong>Moonvine Forge Studios</strong></a></p>
       <p><a href="https://github.com/Paranoidgrinch/RogueDeck-Core"><img alt="Star RogueDeck Core" src="https://img.shields.io/github/stars/Paranoidgrinch/RogueDeck-Core?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=ROGUEDECK%20CORE&amp;color=512BD4"></a></p>
       <p><a href="https://studio.moonvineforge.com"><img alt="Open RogueDeck Studio" src="https://img.shields.io/badge/OPEN-ROGUEDECK%20STUDIO-6B7D58?style=for-the-badge"></a></p>
@@ -52,17 +52,17 @@ The engine resolves mechanics through composable effect programs and typed event
 
 ## Science & engineering
 
-My research at **CologneAMS** brings together ion-beam physics, high-power lasers and experimental control software. I work on the parts of an experiment that have to agree in practice: particle trajectories, optical alignment, measured transmission and reliable instrument control.
+My research at **CologneAMS** brings together ion-beam physics, high-power lasers and experimental automation software. I work on the parts of an experiment that have to agree in practice: ion optics, optical alignment, ion cooler transmission and reliable instrument control.
 
 ### Laser-assisted accelerator mass spectrometry
 
 For **²⁶Al AMS**, I investigate selective photodetachment of interfering **MgO⁻** while transmitting **AlO⁻**. The experiment combines a helium-filled RFQ ion cooler with a continuous-wave **532 nm laser**. The central trade-off is suppressing molecular isobars without losing the ions needed for the measurement.
 
-I model collision-induced losses and ion transport through the RFQ, simulate electrostatic ion optics in **SIMION**, and evaluate ion–laser overlap, apertures and beamline transmission. On the instrumentation side, I develop tools for laser operation, RF matching and coordinated beamline control.
+I model collision-induced losses and ion transport through the RFQ, simulate electrostatic ion optics in **SIMION**, and evaluate ion–laser overlap, apertures and beamline transmission. On the instrumentation side, I develop tools for a fully autonomous operation (RF matching, coordinated beamline control, integration of legacy accelerator components and automated ion optical beam tuning).
 
 ### [OpenEA Benchmark](https://github.com/Paranoidgrinch/openea-benchmark) — in development
 
-**An open-source, state-aware workflow for high-accuracy electron affinities of diatomic molecules.** Instead of assuming one electronic state or averaging a fixed set of methods, OpenEA is being designed to follow competing neutral/anion states and escalate the calculation only when diagnostics justify it.
+**An open-source, state-aware workflow for high-accuracy electron affinities of diatomic molecules.** Born from the massive lack of electron affinity databases and directly linked to the requirement of this dimension for laser photodetachment. Instead of assuming one electronic state or averaging a fixed set of methods, OpenEA is being designed to follow competing neutral/anion states and escalate the calculation only when diagnostics justify it.
 
 The scientific roadmap covers electronic-state discovery and continuity along potential-energy curves; correlated energies and basis-set convergence; nuclear-motion, relativistic and spin–orbit contributions; and an uncertainty-aware **EA / UNBOUND** decision. **FeH/FeH⁻ is a demanding validation case, not a molecule-specific target.**
 
