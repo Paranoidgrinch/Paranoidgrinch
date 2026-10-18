@@ -24,7 +24,7 @@
 
 ---
 
-## 🎴 Games — RogueDeck
+## Games — RogueDeck
 
 ### [RogueDeck Core](https://github.com/Paranoidgrinch/RogueDeck-Core)
 
@@ -66,7 +66,7 @@ five acts from the City Offices to the Divine Ledger. The game is split across f
 
 ---
 
-## 🔬 Science — laser-assisted AMS at CologneAMS
+## Science — laser-assisted AMS at CologneAMS
 
 My research at **CologneAMS** brings together ion-beam physics, high-power lasers and experimental
 automation. For **²⁶Al AMS**, I investigate selective photodetachment of the interfering **MgO⁻** while
